@@ -19,7 +19,7 @@ const corsOptions = {
     origin: [
         'http://localhost:5173', // Development frontend
         'http://localhost:3000', // Alternative development port
-        'https://yadav-automobile-car-sell.onrender.com', // Production backend (same origin)
+        'https://automobile-11-01-2026-1.onrender.com', // Production backend (same origin)
         // Add your production frontend URL here when deployed
         // 'https://your-frontend-domain.com'
     ],
